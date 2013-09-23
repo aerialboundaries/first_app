@@ -16,4 +16,4 @@
 /tmp
 
 # Ignore /public/asses in order to Heroku compile the assets
-/public/assets
+#/public/assets
